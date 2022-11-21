@@ -3,10 +3,10 @@
 #________________SETUP_START________________
 
 ## PLAYLIST SOURCE FOLDER (e.g. /media/cdrom/ )
-FILES_SRC="/srv/dev-disk-by-uuid-1dc109b3-9927-40d8-80a4-44fa322f51f7/music/music_collection/_playlists/"
+FILES_SRC="/music/music_collection/_playlists/"
 
-## PLAYLIST PHONE FOLDER (e.g. /media/cdrom/ )
-FILES_DST="/srv/dev-disk-by-uuid-1dc109b3-9927-40d8-80a4-44fa322f51f7/music/music_collection/_playlists_phone/"
+## PLAYLIST DESTINATION FOLDER (e.g. /media/cdrom/ )
+FILES_DST="/music/music_collection/_playlists_phone/"
 
 ## MUSIC CONTENT PATH OLD (search)
 SEARCH='/music/'
